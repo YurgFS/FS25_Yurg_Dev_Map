@@ -42,20 +42,20 @@ Based on Sample Mod Map by GWENDAL
 - https://www.youtube.com/@GWENDALYT
 
 
-## Support
+# Support
 
 For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Dev_Map/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Dev+Map
 
 
-## Recommend Mods
+# Recommend Mods
 
 Here is a list of mods I do recommend:
 - https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
-## Licence
+# Licence
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-logo-white.svg">
@@ -86,7 +86,7 @@ Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attributio
 To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
-## Download
+# Download
 
 Only use the download link provided in the latest version:
 - https://github.com/YurgFS/FS25_Yurg_Dev_Map/releases/latest
