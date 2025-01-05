@@ -42,9 +42,9 @@ Based on Sample Mod Map by GWENDAL
 - https://www.youtube.com/@GWENDALYT
 
 
-## For any issue, suggestion or question
+## Support
 
-Please use one of the following:
+For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Dev_Map/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Dev+Map
 
