@@ -1,0 +1,17 @@
+name: ❓ Other requests
+description: For any purpose that is not a Bug report nor a Feature request
+title: "[Other]: "
+labels: ["question", "triage"]
+assignees:
+  - YurgFS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this request!
+  - type: textarea
+    id: question
+    attributes:
+      label: How may we help you?
+    validations:
+      required: true
