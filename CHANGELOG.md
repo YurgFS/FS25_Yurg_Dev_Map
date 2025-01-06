@@ -3,7 +3,7 @@
 
 NPC positions update 
 
-As some mods have an effect on missions, missions have been activated, and to this end some unowned fields have been added as well as mission positions.
+As some mods have an effect on missions, missions have been activated, and to this end 12 unowned fields have been added as well as mission positions.
 
 
 ## beta  v0.0.0.7 (31/12/2024)

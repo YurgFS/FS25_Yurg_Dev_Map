@@ -32,7 +32,7 @@ It comes with:
 - trees at different growing stages & a few rocks
 - some fields with nothing on it to test implements
 - some vehicles ready to use
-- mission might be available
+- mission might be available (12 unowned fields)
 
 Based on Sample Mod Map by GWENDAL
 - https://www.kingmods.net/en/fs25/mods/59470/sample-mod-map
