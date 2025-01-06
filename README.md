@@ -14,32 +14,35 @@ Therefore do not hesitate to rate the mod after you have tested it, and/or add a
 
 Your comments and suggestions are welcome.
 
+## Why this map?
+
 I know we can use some console commands like ggsI3DCacheClean, gsStoreItemsReload, gsVehicleReload
 
-But we finally often need to restart the game, reason why I decided to create a light fast loading map for mod tests.
+But in the end we often need to restart the game, reason why I decided to create a light, fast-loading map for mod testing.
+
+## What does it offer?
 
 It comes with:
 - vehicle shop & animal dealer triggers
-- a farm house, workshop, farmer's market and sawmilluse
+- a farm house, workshop, farmer's market and sawmill
 - 6 golden apples that will give you 2M each if you need money
-  (if you as lazy as I am to use the console commands)
 - fields for all crops ready to harvest
 - fields for wheat at distinct growing stages
 - grapes & olives at distinct growing stages
 - trees at different growing stages & a few rocks
 - some fields with nothing on it to test implements
 - some vehicles ready to use
-
-That is strange but we can have rice ready to harvest out of a rice field...
-
-I will try to update it later on with some things like:
-- rice field addition
-- distinct levels of fertilization, lime, stone, weed
-- ...
+- mission might be available (12 unowned fields for that purpose)
 
 Based on Sample Mod Map by GWENDAL
 - https://www.kingmods.net/en/fs25/mods/59470/sample-mod-map
 - https://www.youtube.com/@GWENDALYT
+
+
+# Recommend Mods
+
+Here is a list of mods I do recommend:
+- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Support
@@ -47,12 +50,6 @@ Based on Sample Mod Map by GWENDAL
 For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Dev_Map/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Dev+Map
-
-
-# Recommend Mods
-
-Here is a list of mods I do recommend:
-- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Licence
@@ -78,7 +75,7 @@ Here is a list of mods I do recommend:
   <img alt="ND" src="res/cc/cc-nd.svg" width="24">
 </picture>
 
-Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+Yurg's Dev Map © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
 - NC: Only noncommercial use of my work is permitted.
 - ND: No derivatives or adaptations of my work are permitted.
