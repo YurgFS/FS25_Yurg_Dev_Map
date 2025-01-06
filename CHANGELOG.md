@@ -1,5 +1,5 @@
 
-## beta  v0.0.0.8 (ongoing)
+## beta  v0.0.0.8 (06/01/2025)
 
 NPC positions update 
 
