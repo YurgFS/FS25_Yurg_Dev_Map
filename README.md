@@ -39,17 +39,17 @@ Based on Sample Mod Map by GWENDAL
 - https://www.youtube.com/@GWENDALYT
 
 
+# Recommend Mods
+
+Here is a list of mods I do recommend:
+- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
+
+
 # Support
 
 For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Dev_Map/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Dev+Map
-
-
-# Recommend Mods
-
-Here is a list of mods I do recommend:
-- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Licence
