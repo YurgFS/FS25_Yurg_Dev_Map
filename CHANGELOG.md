@@ -4,6 +4,8 @@ Additional ready to use vehicles near the big cotton field:
 - John Deere CP690
 - Case IH Module Express 635
 
+Large cotton field size increased to 2.60ha instead of 1.92 to get at least 20.000L (43)
+
 For the 3 highest growing wheat fields at different growth stages (25, 26, 27):
 - added one level of fertilizer (max is 2)
 - added distinct level of limefer (1,2 and 3)
