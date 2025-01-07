@@ -1,3 +1,16 @@
+## TBD (ongoing)
+
+Additional ready to use vehicles near the big cotton field:
+- John Deere CP690
+- Case IH Module Express 635
+
+For the 3 highest growing wheat fields at different growth stages (25, 26, 27):
+- added one level of fertilizer (max is 2)
+- added distinct level of limefer (1,2 and 3)
+
+Unowned fields 53 and 54 used for the mission markers are set to first stage of grass
+
+Addition of 4 unowned big fields (59-62)
 
 ## beta  v0.0.0.8 (06/01/2025)
 

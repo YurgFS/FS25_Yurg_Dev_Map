@@ -27,12 +27,12 @@ It comes with:
 - a farm house, workshop, farmer's market and sawmill
 - 6 golden apples that will give you 2M each if you need money
 - fields for all crops ready to harvest
-- fields for wheat at distinct growing stages
+- fields for wheat at distinct growing, lime and fertilizer stages
 - grapes & olives at distinct growing stages
 - trees at different growing stages & a few rocks
 - some fields with nothing on it to test implements
+- missions are available (16 unowned fields for that purpose)
 - some vehicles ready to use
-- mission might be available (12 unowned fields for that purpose)
 
 Based on Sample Mod Map by GWENDAL
 - https://www.kingmods.net/en/fs25/mods/59470/sample-mod-map
