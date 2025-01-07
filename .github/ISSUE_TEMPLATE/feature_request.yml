@@ -9,6 +9,13 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Could you please provide us the version you are using?
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:

@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+        The more details we have, the easier it will be to solve the problem.
   - type: input
     id: version
     attributes:
