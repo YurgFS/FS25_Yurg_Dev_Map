@@ -1,6 +1,6 @@
-## TBD (ongoing)
+## beta v0.0.0.9 (08/01/2025)
 
-Additional ready to use vehicles near the big cotton field:
+Additional ready to use vehicles for the big cotton field:
 - John Deere CP690
 - Case IH Module Express 635
 
@@ -13,6 +13,8 @@ For the 3 highest growing wheat fields at different growth stages (25, 26, 27):
 Unowned fields 53 and 54 used for the mission markers are set to first stage of grass
 
 Addition of 4 unowned big fields (59-62)
+
+Deadwood missions are disabled until fixed
 
 ## beta  v0.0.0.8 (06/01/2025)
 
