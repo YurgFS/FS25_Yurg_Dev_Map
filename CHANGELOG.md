@@ -1,6 +1,6 @@
 ## TBD (ongoing)
 
-Additional ready to use vehicles near the big cotton field:
+Additional ready to use vehicles for the big cotton field:
 - John Deere CP690
 - Case IH Module Express 635
 
