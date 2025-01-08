@@ -8,9 +8,9 @@
 If you are not a modder, this map is unlikely to be useful for you.
 Except perhaps to test certain mods that have a strong impact on a game before adding it to your main game.
 
-Some ayatollahs, who believe that everyone should play like them, seems to have great fun giving a single star to any mod that does not interest them or does not seems real to them.
+Some ayatollahs, who believe that everyone should play like them, seem to have great fun giving a single star to any mod that does not interest them or does not seem real to them.
 
-Therefore do not hesitate to rate the mod after you have tested it, and/or add a comment if something is not right for you.
+Therefore, do not hesitate to rate the mod after you have tested it, and/or add a comment if something is not right for you.
 
 Your comments and suggestions are welcome.
 
