@@ -14,6 +14,8 @@ Unowned fields 53 and 54 used for the mission markers are set to first stage of 
 
 Addition of 4 unowned big fields (59-62)
 
+Deadwood missions are disabled until fixed
+
 ## beta  v0.0.0.8 (06/01/2025)
 
 NPC positions update 
