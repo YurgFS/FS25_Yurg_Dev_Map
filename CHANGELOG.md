@@ -1,4 +1,4 @@
-## TBD (ongoing)
+## beta v0.0.0.9 (08/01/2025)
 
 Additional ready to use vehicles for the big cotton field:
 - John Deere CP690
