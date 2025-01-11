@@ -1,3 +1,12 @@
+## beta v0.0.0.10 (TBD)
+
+Addition of 4 large long fields (4.64ha):
+- 63: wheat ready to harvest
+- 64: grass ready to harvest
+- 65: unowned (random)
+- 66: unowned (random)
+
+
 ## beta v0.0.0.9 (08/01/2025)
 
 Additional ready to use vehicles for the big cotton field:
@@ -18,7 +27,7 @@ Deadwood missions are disabled until fixed
 
 ## beta  v0.0.0.8 (06/01/2025)
 
-NPC positions update 
+NPC positions update
 
 As some mods have an effect on missions, missions have been activated, and to this end 12 unowned fields have been added as well as mission positions.
 
