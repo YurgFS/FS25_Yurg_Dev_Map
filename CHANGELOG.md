@@ -1,11 +1,10 @@
-## beta v0.0.0.10 (TBD)
+## beta v0.0.0.10 (12/01/2025)
 
 Addition of 4 large long fields (4.64ha):
 - 63: wheat ready to harvest
 - 64: grass ready to harvest
 - 65: unowned (random)
 - 66: unowned (random)
-
 
 ## beta v0.0.0.9 (08/01/2025)
 
