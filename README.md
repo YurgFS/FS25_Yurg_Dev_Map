@@ -33,10 +33,10 @@ It comes with:
 - 3 long fields (0.60 ha) for olives at distinct growing stages
 - 3 long fields (0.60 ha) for grapes at distinct growing stages
 - 8 fields of different sizes with nothing on it to test implements
-    - 1 huge field for consturctions (5.04 ha)
-    - 3 small fields (0.64 ha)
-    - 2 small flooded rice fields (0.64 ha)
-    - 2 big fields (1.92 ha)
+  - 1 huge field for consturctions (5.04 ha)
+  - 3 small fields (0.64 ha)
+  - 2 small flooded rice fields (0.64 ha)
+  - 2 big fields (1.92 ha)
 - trees at different growing stages & a few rocks
 - missions are available (20 unowned fields for that purpose)
 - some vehicles ready to use
