@@ -1,4 +1,8 @@
-[![](docs/modHeader.png)](docs/modScreen.png)
+---
+id: readme
+title: ""
+---
+[![](modHeader.png)](modScreen.png)
 # Yurg's Dev Map
 
 All details [are available here](https://yurgfs.github.io/FS25_Yurg_Dev_Map/).

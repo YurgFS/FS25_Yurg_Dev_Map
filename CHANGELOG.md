@@ -26,7 +26,7 @@ Deadwood missions are disabled until fixed
 
 ## beta  v0.0.0.8 (06/01/2025)
 
-NPC positions update
+NPC positions update 
 
 As some mods have an effect on missions, missions have been activated, and to this end 12 unowned fields have been added as well as mission positions.
 
