@@ -1,3 +1,9 @@
+## v1.0.0.0 (12/02/2025)
+
+Minor map updates
+
+Documantation update
+
 ## beta v0.0.0.10 (12/01/2025)
 
 Addition of 4 large long fields (4.64ha):
